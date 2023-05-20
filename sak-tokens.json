@@ -1019,6 +1019,10 @@
     "standard-ikon": {
       "value": "{light-blue-strong}",
       "type": "color"
+    },
+    "zaza": {
+      "value": "80px",
+      "type": "sizing"
     }
   },
   "$themes": [],
